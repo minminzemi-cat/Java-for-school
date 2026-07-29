@@ -1,0 +1,3 @@
+ interface HasGetAreaMethod {
+    double GetArea();
+}
