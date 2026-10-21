@@ -1,4 +1,4 @@
-package k0916;
+package J0916;
 
 public class ExceptionExample {
     public static void main(String[] args) {

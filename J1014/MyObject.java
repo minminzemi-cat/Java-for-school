@@ -1,4 +1,4 @@
-package W1014;
+package J1014;
 
 public class MyObject {
     int price;

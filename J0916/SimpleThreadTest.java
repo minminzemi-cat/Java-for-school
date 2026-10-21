@@ -1,4 +1,4 @@
-package k0916;
+package J0916;
 
 class MyThread extends Thread{
     public void run(){

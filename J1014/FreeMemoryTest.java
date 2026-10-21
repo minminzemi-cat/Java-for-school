@@ -1,4 +1,4 @@
-package W1014;
+package J1014;
 
 class FreeMemoryTest {
     int[] data = new int[200];

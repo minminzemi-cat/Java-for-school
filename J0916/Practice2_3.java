@@ -1,4 +1,4 @@
-package k0916;
+package J0916;
 
 public class Practice2_3 {
     public static void main(String[] args) {

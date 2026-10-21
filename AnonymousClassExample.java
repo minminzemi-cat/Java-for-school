@@ -1,0 +1,14 @@
+public class AnonymousClassExample {
+    public static void main(String[] args) {
+        Greeting.greet(new SayHello() {
+            public void hello(){
+                System.out.println("こんにちは");
+            }
+        });
+
+        //ラムダ式で書き直す
+        Greeting.greet(
+            () -> {System.out.println("こんにちは");}
+        );
+    }
+}

@@ -1,4 +1,4 @@
-package k0916;
+package J0916;
 
 class InvalidAgeException extends Exception{
     InvalidAgeException(String message){

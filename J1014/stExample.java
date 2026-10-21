@@ -1,4 +1,4 @@
-package W1014;
+package J1014;
 
 public class stExample {
     public static void main(String[] args) {
